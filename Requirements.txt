@@ -1,0 +1,21 @@
+Power BI Desktop
+
+Power Query (Data Cleaning & Transformation)
+
+DAX (Data Analysis Expressions)
+
+Data Modeling
+
+Interactive Dashboards
+
+Data Visualization
+
+Microsoft Excel (Data Source)
+
+CSV Files (Olist Dataset)
+
+KPI Metrics
+
+Filters & Slicers
+
+Drill-Through & Tooltips
